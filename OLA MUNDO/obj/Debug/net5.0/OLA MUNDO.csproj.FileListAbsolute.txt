@@ -1,0 +1,16 @@
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\OLA MUNDO.exe
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\OLA MUNDO.deps.json
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\OLA MUNDO.runtimeconfig.json
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\OLA MUNDO.runtimeconfig.dev.json
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\OLA MUNDO.dll
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\ref\OLA MUNDO.dll
+C:\Users\veschimmels\Desktop\OLA MUNDO\bin\Debug\net5.0\OLA MUNDO.pdb
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.csprojAssemblyReference.cache
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.AssemblyInfoInputs.cache
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.AssemblyInfo.cs
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.csproj.CoreCompileInputs.cache
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.dll
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\ref\OLA MUNDO.dll
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.pdb
+C:\Users\veschimmels\Desktop\OLA MUNDO\obj\Debug\net5.0\OLA MUNDO.genruntimeconfig.cache

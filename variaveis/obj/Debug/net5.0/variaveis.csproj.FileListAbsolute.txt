@@ -1,0 +1,16 @@
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.csprojAssemblyReference.cache
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.AssemblyInfo.cs
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\variaveis.exe
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\variaveis.deps.json
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\variaveis.runtimeconfig.json
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\variaveis.runtimeconfig.dev.json
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\variaveis.dll
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\ref\variaveis.dll
+C:\Users\veschimmels\desktop\c#\variaveis\bin\Debug\net5.0\variaveis.pdb
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.dll
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\ref\variaveis.dll
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.pdb
+C:\Users\veschimmels\desktop\c#\variaveis\obj\Debug\net5.0\variaveis.genruntimeconfig.cache
